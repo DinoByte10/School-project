@@ -1,1 +1,2 @@
-# School-project
+# School-project 
+goal: to create a simple game with c++
